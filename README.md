@@ -25,9 +25,8 @@ curl -fsSL https://github.com/d-buckner/bloud/releases/latest/download/install.s
 Open the dashboard at `http://<machine address>`, set your host under Settings,
 and that's it.
 
-**Please don't expose bloud to the public internet yet.** It's alpha, it serves
-plain HTTP, and there is no mechanism yet for getting security updates to apps
-or to bloud itself. Keep it on your LAN for now, and keep your own backups of
+**Please don't expose bloud to the public internet yet.** It's alpha, and there is no mechanism yet for getting security updates to apps
+in a time sensitive manner. Keep it on your LAN for now, and keep your own backups of
 anything you cannot lose.
 
 ## why
