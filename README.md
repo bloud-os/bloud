@@ -12,14 +12,13 @@ inter-app integrations happen for you.
 
 Debian 13, x86_64.
 
-The script is short, and you should read it before piping it to a shell:
-[install.sh](https://github.com/d-buckner/bloud/releases/latest/download/install.sh).
+The script is short, and you should read it before piping it to a shell: [install.sh](https://github.com/bloud-os/bloud/blob/main/install.sh).
 To do it by hand instead, grab the `.deb` from the
-[releases page](https://github.com/d-buckner/bloud/releases) and run
+[releases page](https://github.com/bloud-os/bloud/releases) and run
 `sudo apt install ./bloud_*.deb`.
 
 ```bash
-curl -fsSL https://github.com/d-buckner/bloud/releases/latest/download/install.sh | sudo sh
+curl -fsSL https://github.com/bloud-os/bloud/releases/latest/download/install.sh | sudo sh
 ```
 
 Open the dashboard at `http://<machine address>`, set your host under Settings,
@@ -87,7 +86,7 @@ once from its menu on the dashboard.
 
 ## feedback
 
-Bugs and requests: [issues](https://github.com/d-buckner/bloud/issues).
+Bugs and requests: [issues](https://github.com/bloud-os/bloud/issues).
 
 ## license
 
