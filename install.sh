@@ -2,7 +2,7 @@
 
 set -eu
 
-REPO="d-buckner/bloud"
+REPO="bloud-os/bloud"
 
 # The repository publishes immutable releases
 api="https://api.github.com/repos/$REPO/releases?per_page=30"
