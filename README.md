@@ -1,6 +1,6 @@
 # Bloud
 
-your friendly personal cloud.*
+your friendly personal cloud
 
 [![Status: Alpha](https://img.shields.io/badge/Status-Alpha-orange.svg)](https://github.com/bloud-os/bloud/releases)
 
